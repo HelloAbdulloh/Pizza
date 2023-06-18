@@ -1,0 +1,345 @@
+[
+    {
+        "id": "1",
+        "name": "Pepperoni",
+        "price": "40.000",
+        "image": "https://foody-alpha-dun.vercel.app/5d56c0ad1cb18993e63618561e39416d.jpg",
+        "description": "Pepperoni, signature sauce, gouda cheese, mozzarella cheese, suluguni cheese, parmesan cheese",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2022"
+    },
+    {
+        "id":"2",
+        "name": "Steak",
+        "price": "55.000",
+        "image": "https://foody-alpha-dun.vercel.app/63717a829d91a474d05735e8fb5c472c.jpg",
+        "description": "Signature sauce, mushrooms, onion, cheese, bon fillet, paprika, cherry tomatoes, olives",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2022"
+    },
+    {
+        "id":"3",
+        "name": "Supreme",
+        "price": "50.000",
+        "image": "https://foody-alpha-dun.vercel.app/a1a905a1065dfd2da0d0f17a9f2caf8c.jpg",
+        "description": "Signature sauce, smoked beef, smoked turkey, chicken, hunting sausages, cheese",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2022"
+    },
+    {
+        "id": "4",
+        "name": "Margarita",
+        "price": "58.000",
+        "image": "https://foody-alpha-dun.vercel.app/9963d6bd027024b1cf42cda74557d5fb.jpg",
+        "description": "Signature sauce, cheese, cherry tomatoes, oregano",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"5",
+        "name": "Frankfurt",
+        "price": "65.000",
+        "image": "https://foody-alpha-dun.vercel.app/f20136f8fd55e1714978edf2ca35722a.jpg",
+        "description": "Signature sauce, fresh cheese, mozzarella, guada cheese",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"6",
+        "name": "Barbecue chicken",
+        "price": "60.000",
+        "image": "fa2d45e2596143c6989cf32350cd5f07_366x366.jpeg",
+        "description": "Signature sauce, cheese, cherry tomatoes, broccoli, shrimps",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "7",
+        "name": "Vegeterian",
+        "price": "50.000",
+        "image": "https://foody-alpha-dun.vercel.app/e963bcf67225cc8af859c0666efd662e.jpg",
+        "description": "Signature sauce, vegetables, cheese",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"8",
+        "name": "Dodo",
+        "price": "65.000",
+        "image": "de51de47773843fe95957caab3d7f974_366x366.png",
+        "description": "Mozzarella cheese, gouda cheese, pepperoni, bon fillet...",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"9",
+        "name": "Heart pizza",
+        "price": "60.000",
+        "image": "d53b558190ab473597515c4da9d14096_760x760.png",
+        "description": "Pepperoni, mozzarella cheese, signature sauce, gouda cheese...",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "10",
+        "name": "Pizza Pie 🌱",
+        "price": "50.000",
+        "image": "a88032047f394ef2a6c154ab9089e606_366x366.jpeg",
+        "description": "Signature sauce, gouda cheese, mozzarella cheese, iceberg...",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"11",
+        "name": "Cheesy",
+        "price": "65.000",
+        "image": "336673eb89994f878f6df5589f6cedf9_366x366.jpeg",
+        "description": "Gouda cheese, mozzarella cheese, signature sauce",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"12",
+        "name": "Gavaya",
+        "price": "60.000",
+        "image": "55e123ffb87c4403828b86089b58fb70_366x366.jpeg",
+        "description": "Chicken, signature sauce, cherry tomatoes...",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "13",
+        "name": "Hawaii",
+        "price": "50.000",
+        "image": "https://foody-alpha-dun.vercel.app/7aad445a7dcdc36d53e04f4ea1430a7e.jpg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"14",
+        "name": "Las Vegas",
+        "price": "65.000",
+        "image": "d3a63d0911cf45ca920a7c82c2e03757_366x366.jpeg",
+        "description": "Signature sauce, gouda cheese, mozzarella cheese...",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"15",
+        "name": "Vegetables and mushrooms 🌱",
+        "price": "11.000",
+        "image": "f4bbf854891b4bcf92fa0c08d8951181_366x366.jpeg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "16",
+        "name": "Pizza Volcano 🌶️🌶️",
+        "price": "50.000",
+        "image": "1f6c13d493604d539cecdb2e91a6b908_366x366.jpeg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"17",
+        "name": "Half pizza",
+        "price": "65.000",
+        "image": "1be8fabd45824fc7b042ccd213c20474_366x366.jpeg",
+        "description": "Signature sauce, gouda cheese, mozzarella cheese...",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"18",
+        "name": "Chicken Bomboni",
+        "price": "11.000",
+        "image": "5eca54ca8e3f4c4b986a26cdb7d7d09a_366x366 (1).jpeg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "19",
+        "name": "Four seasons",
+        "price": "50.000",
+        "image": "9f8bf5fd916441ee812eab57885885d5_366x366.jpeg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"20",
+        "name": "4 cheeses",
+        "price": "65.000",
+        "image": "966d38e2a1dc4386afc53684fbdd3569_366x366.jpeg",
+        "description": "Signature sauce, gouda cheese, mozzarella cheese...",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"21",
+        "name": "Supermeat",
+        "price": "11.000",
+        "image": "a19e34d8246a4c179fc62479e1174669_366x366.jpeg",
+        "description": "Signature sauce, chicken, pineapple",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "22",
+        "name": "Chicken wings",
+        "price": "30.000",
+        "image": "a81858f39cbb481e9061d5ca1d4f5dcb_366x366.jpeg",
+        "description": "Baked Chicken Wings in a Spicy BBQ Sauce Marinade",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["Sousli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"23",
+        "name": "Pepperoni rolls",
+        "price": "45.000",
+        "image": "94935dbff02a4ab1ae982db85e39cdb0_366x366.jpeg",
+        "description": "Hot rolls with pepperoni, mozzarella and cheese sauce",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"24",
+        "name": "Chicken Bytes",
+        "price": "25.000",
+        "image": "69fc09d08e724dd9800a8117d20f7ae2_366x366.png",
+        "description": "Juicy chicken fillet in crispy breading",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "type": [["standard","0"],["achchiq","5000"],["zaytunli","7000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id": "25",
+        "name": "Cheesecakes",
+        "price": "30.000",
+        "image": "91dc83419ee94d409cabb0cce2c9a112_366x366.png",
+        "description": "Delicate cheesecakes cooked in the oven with condensed milk",
+        "sizes": [["small","30.000"],["medium","38.000"],["big","45.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"26",
+        "name": "Oreo cheesecake",
+        "price": "25.000",
+        "image": "192a12272f3546efa11d250cb0ded709_366x366.png",
+        "description": "He will win your hearts. The most delicate cheesecake based..",
+        "sizes": [["small","45.000"],["medium","55.000"],["big","65.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"27",
+        "name": "Apple pie",
+        "price": "20.000",
+        "image": "71402e0aba7443a4bde2f0b8b5a83411_366x366.jpeg",
+        "description": "Shortcrust pastry dessert with apple filling.",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"28",
+        "name": "Coffee Caramel Cappuccino",
+        "price": "20.000",
+        "image": "8a83e2f7f9b24af28901a070b6e76b16_366x366.jpeg",
+        "description": "Hot espresso based drink with frothed milk and caramel syrup",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"29",
+        "name": "Coffee Americano, 0.4 l",
+        "price": "20.000",
+        "image": "041d8524e3d040339da079a0d41cc34b_366x366.jpeg",
+        "description": "A couple of sips of hot Americano",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },{
+        "id":"30",
+        "name": "Coffee Cappuccino, 0.4 l",
+        "price": "20.000",
+        "image": "9e9a6d1db02f4691823c1747a01f9e70_366x366.jpeg",
+        "description": "Hot espresso based drink with frothed milk",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },{
+        "id":"31",
+        "name": "Fanta",
+        "price": "12.000",
+        "image": "08389f8dd81e4b8088967c50198d0ac9_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"32",
+        "name": "Coca-cola",
+        "price": "12.000",
+        "image": "dcb003bb83104e44892e5d49c0c2d994_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },
+    {
+        "id":"33",
+        "name": "Sprite",
+        "price": "12.000",
+        "image": "021453fee4f341348541bde30bdae869_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },{
+        "id":"34",
+        "name": "Water with gas",
+        "price": "5.000",
+        "image": "e198e5385c524b479abc88586bacb2be_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },{
+        "id":"35",
+        "name": "Fusetea Black Tea",
+        "price": "11.000",
+        "image": "f545a9ed4f0c4a179e6b48b065b13808_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    },{
+        "id":"36",
+        "name": "Orange juice,",
+        "price": "18.000",
+        "image": "041fb2fc7a954102bec2595ef0622eb3_366x366.jpeg",
+        "description": " ",
+        "sizes": [["small","40.000"],["medium","50.000"],["big","60.000"]],
+        "date": "15.09.2021"
+    }
+]
